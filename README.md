@@ -20,6 +20,10 @@ Control:
 
 
 Space - Throw
+
+
+
+
 W, S, A, D - You can control the ball manually
 
 

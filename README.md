@@ -2,10 +2,11 @@
 
 
 
-A simple game that simulates throws to the basket
+- A simple game that simulates throws to the basket
 
 
-Technology:   PyGame
+Technology:   
+- PyGame
 
 
 
@@ -18,12 +19,8 @@ Technology:   PyGame
 
 Control:
 
+- Space - Throw
 
-Space - Throw
-
-
-
-
-W, S, A, D - You can control the ball manually
+- W, S, A, D - You can control the ball manually
 
 
